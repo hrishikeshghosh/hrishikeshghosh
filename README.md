@@ -14,6 +14,9 @@ I am currently pursuing B.tech in Computer Science and Engineering. Right now I 
 5. Facts about me: I have built a 3D Game (racing) at the age of 17 and a messaging app at the age of 19. Writing short stories and poems have been a passion to me since a very young age. I am looking forward to project development ideas and collaboration.⚡
 
 ## MY RESUME
-<img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334004/github%20elements/742-multimedia-code-1-outline_1_iqd4cb.gif" width="50" height="50" />
+[![resume](https://res.cloudinary.com/dwtjde0mg/image/upload/v1644332365/github%20elements/document_iycccc.gif)](https://drive.google.com/file/d/1fXUd-FZ--679pjqG64ay_xIqLbTlL6Wz/view?usp=sharing)
+
+
+## <img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334004/github%20elements/742-multimedia-code-1-outline_1_iqd4cb.gif" width="50" height="50" /> My Skill sets <img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334004/github%20elements/742-multimedia-code-1-outline_1_iqd4cb.gif" width="50" height="50" /> 
 
 
