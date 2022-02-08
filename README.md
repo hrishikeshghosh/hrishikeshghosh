@@ -17,7 +17,7 @@ I am currently pursuing B.tech in Computer Science and Engineering. Right now I 
 <img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334196/github%20elements/56-document-outline_nrbvwv.gif" width="400" height="400" />
 
 
-## <table>
+## <table style="border-collapse: collapse;">
   <tr>
     <td valign="center"><img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334004/github%20elements/742-multimedia-code-1-outline_1_iqd4cb.gif" height="60" width="60" /> </td>
     <td valign="center"><p>MY SKILL SETS</p></td>
