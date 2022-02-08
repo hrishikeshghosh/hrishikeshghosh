@@ -17,11 +17,12 @@ I am currently pursuing B.tech in Computer Science and Engineering. Right now I 
 <img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334196/github%20elements/56-document-outline_nrbvwv.gif" width="400" height="400" />
 
 
-## <div style="display: flex; align-items:center;">
- <img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334004/github%20elements/742-multimedia-code-1-outline_1_iqd4cb.gif" width="60" height="60"  />
-  <p>My Skill Sets </p>
- <img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334004/github%20elements/742-multimedia-code-1-outline_1_iqd4cb.gif" width="60" height="60" /> 
+## <div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
+</div>
 
  
 
