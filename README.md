@@ -7,4 +7,8 @@ I am currently pursuing B.tech in Computer Science and Engineering. Right now I 
 
 
 ## What can I do and what's here for you?
-
+1. I am a fullstack developer on MERN technlogy. What do you get from here? Well I am up for freelancing too. 🦾
+2. I am currently learning Machine Learning. So more cool projects coming soon. 🤖
+3. I have experience in ANdroid Studio as well as Unity 3D. Weird Right? 🔥
+4. I domain language is mainly Java. 🏴󠁩󠁤󠁪󠁷󠁿
+5. Facts about me: I have built a 3D Game (racing) at the age of 17 and a messaging app at the age of 19. Writing short stories and poems have been a passion to me since a very young age. I am looking forward to project development ideas and collaboration.⚡
