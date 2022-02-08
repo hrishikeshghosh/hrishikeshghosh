@@ -12,3 +12,8 @@ I am currently pursuing B.tech in Computer Science and Engineering. Right now I 
 3. I have experience in ANdroid Studio as well as Unity 3D. Weird Right? 🔥
 4. I domain language is mainly Java. 🏴󠁩󠁤󠁪󠁷󠁿
 5. Facts about me: I have built a 3D Game (racing) at the age of 17 and a messaging app at the age of 19. Writing short stories and poems have been a passion to me since a very young age. I am looking forward to project development ideas and collaboration.⚡
+
+## MY RESUME
+<img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644332834/github%20elements/742-multimedia-code-1-outline_thgst4.gif" width="100" height="100" />
+
+
