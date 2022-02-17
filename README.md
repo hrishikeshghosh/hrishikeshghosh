@@ -15,7 +15,8 @@ I am currently pursuing B.tech in Computer Science and Engineering. Right now I 
 
 ## MY RESUME
 <img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334196/github%20elements/56-document-outline_nrbvwv.gif" width="400" height="400" />
-<iframe src="https://giphy.com/embed/UVG0BN8TOMKkPOJS6e" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-developer-definity-first-UVG0BN8TOMKkPOJS6e">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="400" height="400" />
+
 
 <img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334004/github%20elements/742-multimedia-code-1-outline_1_iqd4cb.gif" width="100" height"100" /> MY SKILL SETS <img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334004/github%20elements/742-multimedia-code-1-outline_1_iqd4cb.gif" width="100" height"100" />
 
