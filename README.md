@@ -15,8 +15,6 @@ I am currently pursuing B.tech in Computer Science and Engineering. Right now I 
 
 ## MY RESUME
 <img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334196/github%20elements/56-document-outline_nrbvwv.gif" width="400" height="400" />
-
-
 <img src="https://res.cloudinary.com/dwtjde0mg/image/upload/v1644334004/github%20elements/742-multimedia-code-1-outline_1_iqd4cb.gif" width="60" height"60" />
 
 
