@@ -13,6 +13,7 @@
 4. My domain language is Java. 🏴󠁩󠁤󠁪󠁷󠁿
 5. Learning Java Full stack for being industry standard. 🏭
 6. Facts about me: I have built a computer Game at the age of 17 and a messaging app at the age of 19. I am looking forward to project development ideas and collaboration.⚡
+7. MORE PROJECTS COMING SOON.
 
 
  
