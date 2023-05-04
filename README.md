@@ -7,11 +7,13 @@
 
 
 ## What can I do and what's here for you?
-1. I am a fullstack developer on MERN technlogy. What do you get from here? Well I am up for freelancing too. 🦾
+1. I am a fullstack developer on MERN technlogy. I am proficient in NextJs and Typescript as well. What do you get from here? Well I am up for Collaboration too. 🦾
 2. I am currently into Machine Learning. So more cool projects coming soon. 🤖
 3. I have experience in Android Studio as well as Unity 3D. Weird Right? 🔥
 4. My domain language is Java. 🏴󠁩󠁤󠁪󠁷󠁿
-5. Facts about me: I have built a computer Game at the age of 17 and a messaging app at the age of 19. Writing short stories and poems have been a passion to me since a very young age. I am looking forward to project development ideas and collaboration.⚡
+5. Learning Java Full stack for being industry standard. 🏭
+6. Facts about me: I have built a computer Game at the age of 17 and a messaging app at the age of 19. I am looking forward to project development ideas and collaboration.⚡
+
 
  
 
